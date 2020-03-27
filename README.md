@@ -6,7 +6,7 @@ This `readme.md` is incomplete.  Please reference [related documentation](https:
 Application Insights and Stream Analytics, then use this repository for the schemas specific to HealthBot.
 
 ## Stream Analytics Query
-A Stream Analytics query is provided which can parse blobs from Application Insights continuous delivery
+A [Stream Analytics query](stream_analytics_query.md) is provided which can parse blobs from Application Insights continuous delivery
 and push them into SQL tables.
 
 ## Table Creation Scripts
